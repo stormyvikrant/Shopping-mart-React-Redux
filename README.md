@@ -1,11 +1,4 @@
 
-# React-Redux E-Commerce Application
-
-Hello Everyone...
-Here I am sharing some information about the Shopping WEB  which I build
-using React, Redux, Material UI,Bootstrap,Fontawesome, CSS.
-If you Want to try then Go to the link Below...
-
 
 # React-Redux E-Commerce Application
 
